@@ -28,7 +28,8 @@ To perform the focused crawling the plugin implements three extensions:
 
 3. **TripleExtractor** (implements the IndexingFilter interface): This extension stores new fields to the index that can be later used for querying.
 
-An overview of the complete crawling process using the Anthelion plugin is given in the following figure.
+An overview of the complete crawling process using the Anthelion plugin is given in the following figure:
+
 
 <p align="center">
   <img src="https://github.com/yahoo/anthelion/blob/master/documentation/architecture.png?raw=true" alt="Anthelion Architecture"/>
